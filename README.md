@@ -1,1 +1,1 @@
-# Java-pravctise-problems
+# Java-practise-problems
